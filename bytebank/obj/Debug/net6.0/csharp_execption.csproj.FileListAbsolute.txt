@@ -1,0 +1,15 @@
+C:\Users\isado\source\repos\bytebank\bytebank\bin\Debug\net6.0\csharp_execption.exe
+C:\Users\isado\source\repos\bytebank\bytebank\bin\Debug\net6.0\csharp_execption.deps.json
+C:\Users\isado\source\repos\bytebank\bytebank\bin\Debug\net6.0\csharp_execption.runtimeconfig.json
+C:\Users\isado\source\repos\bytebank\bytebank\bin\Debug\net6.0\csharp_execption.dll
+C:\Users\isado\source\repos\bytebank\bytebank\bin\Debug\net6.0\csharp_execption.pdb
+C:\Users\isado\source\repos\bytebank\bytebank\obj\Debug\net6.0\csharp_execption.csproj.AssemblyReference.cache
+C:\Users\isado\source\repos\bytebank\bytebank\obj\Debug\net6.0\csharp_execption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isado\source\repos\bytebank\bytebank\obj\Debug\net6.0\csharp_execption.AssemblyInfoInputs.cache
+C:\Users\isado\source\repos\bytebank\bytebank\obj\Debug\net6.0\csharp_execption.AssemblyInfo.cs
+C:\Users\isado\source\repos\bytebank\bytebank\obj\Debug\net6.0\csharp_execption.csproj.CoreCompileInputs.cache
+C:\Users\isado\source\repos\bytebank\bytebank\obj\Debug\net6.0\csharp_execption.dll
+C:\Users\isado\source\repos\bytebank\bytebank\obj\Debug\net6.0\refint\csharp_execption.dll
+C:\Users\isado\source\repos\bytebank\bytebank\obj\Debug\net6.0\csharp_execption.pdb
+C:\Users\isado\source\repos\bytebank\bytebank\obj\Debug\net6.0\csharp_execption.genruntimeconfig.cache
+C:\Users\isado\source\repos\bytebank\bytebank\obj\Debug\net6.0\ref\csharp_execption.dll

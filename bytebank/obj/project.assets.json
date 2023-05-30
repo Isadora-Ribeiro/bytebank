@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isado\\source\\repos\\bytebank\\bytebank\\bytebank.csproj",
-      "projectName": "bytebank",
-      "projectPath": "C:\\Users\\isado\\source\\repos\\bytebank\\bytebank\\bytebank.csproj",
+      "projectUniqueName": "C:\\Users\\isado\\source\\repos\\bytebank\\bytebank\\csharp_execption.csproj",
+      "projectName": "csharp_execption",
+      "projectPath": "C:\\Users\\isado\\source\\repos\\bytebank\\bytebank\\csharp_execption.csproj",
       "packagesPath": "C:\\Users\\isado\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\isado\\source\\repos\\bytebank\\bytebank\\obj\\",
       "projectStyle": "PackageReference",
